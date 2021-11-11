@@ -10,6 +10,7 @@
   "author": "James Ingold <james@juxly.com>",
   "license": "ISC",
   "peerDependencies": {
+    "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "eslint": "^7.32.0",
@@ -23,6 +24,7 @@
     "prettier": "^2.4.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "eslint": "^7.32.0",
